@@ -116,7 +116,7 @@ your site. [About the theme wrapper](wrapper.md).
 
 ### functions.php
 
-This file loads all of the [theme library](lib.md) files, sets up the default navigation menus, and adds support for post thumbnails.
+This file loads all of the [theme library](lib.md) files.
 
 ### index.php
 
